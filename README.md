@@ -1,2 +1,10 @@
-# hg_1_bravo
-Hack #1 Pull Request Team 14
+Team 14
+
+Bravo
+
+| Nombre | Ubicacion | Alias |
+| ------ | ------ | ------ |
+| Gustavo Van Der Velde | Caracas | Bravo |
+| Andy Perez | Aragua | Charlie |
+| Luis Moreno | Valencia | Delta |
+| Krosswel Cauro | Lara | Alfa |
